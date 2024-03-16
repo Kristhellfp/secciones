@@ -1,0 +1,90 @@
+.text{
+    margin: top 40px;
+    transform: translate(10px, 100px);
+    margin-bottom: 40px;
+    justify-content: center;
+}
+
+
+.opciones{
+    gap: 5px;
+   margin: top 1remx;
+   transform: translate(10px, 100px);
+   margin-bottom: 3px;
+   justify-content: center;
+}
+
+.statics{
+    gap: 5px;
+    margin: top 5rem;
+   transform: translate(10px, 100px);
+   margin-bottom: 4rem;
+   justify-content: center;
+}
+
+.view{
+   margin: top 50px;
+   transform: translate(10px, 100px);
+   margin-bottom: 4rem;
+   justify-content: center;
+    
+}
+
+
+.test{
+    gap: 7 .5px;
+    transform: translate(10px, 100px);
+    margin-bottom: 1rem;
+    justify-content: center;
+}
+
+
+.ops{
+    margin-left: 4px;
+    transform: translate(10px, 100px);
+    margin-bottom: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.browse{
+    margin-left: 40px;
+    transform: translate(10px, 100px);
+    margin-bottom: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.read{
+    margin-left: 40px;
+    transform: translate(10px, 100px);
+    margin-bottom: 40px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.all{
+    margin-left: 40px;
+    transform: translate(10px, 100px);
+    margin-bottom: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja1{
+    margin-left: 40px;
+    transform: translate(10px, 100px);
+    justify-content: center;
+    align-items: center;
+}
+
+.caja2{
+    margin-left: 40px;
+    transform: translate(10px, 100px);
+    justify-content: center;
+    margin-bottom: 100px;
+    align-items: center;
+}
+
